@@ -1,0 +1,8 @@
+﻿  Sort.cpp
+c:\users\79659\source\repos\sort\sort\sort.cpp(10): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\79659\source\repos\sort\sort\sort.cpp(36): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\79659\source\repos\sort\sort\sort.cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\79659\source\repos\sort\sort\sort.cpp(91): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\79659\source\repos\sort\sort\sort.cpp(101): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+c:\users\79659\source\repos\sort\sort\sort.cpp(108): warning C4018: <: несоответствие типов со знаком и без знака
+  Sort.vcxproj -> C:\Users\79659\source\repos\Sort\Debug\Sort.exe
